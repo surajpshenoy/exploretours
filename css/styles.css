@@ -1,0 +1,19 @@
+/*
+Navbar
+*/
+
+.navbar{
+    background: red;
+}
+
+.nav-center{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.nav-header {
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
