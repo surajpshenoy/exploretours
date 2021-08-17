@@ -93,6 +93,7 @@ a {
 /* section */
 .section {
   padding: 5rem 0;
+  background: var(--mainGrey)
 }
 /* title */
 .title-wrapper {
